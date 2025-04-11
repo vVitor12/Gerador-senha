@@ -1,1 +1,3 @@
-Um comando simples para gerar caracteres aleatórios, criador de senhas.
+Importe duas bibliotecas: import secrets / import string
+
+O código irá gerar uma sequência de números e letras aleatórias. 
